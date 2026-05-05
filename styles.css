@@ -1273,6 +1273,13 @@ section:not(.hero) > .container {
     transition: none !important;
     scroll-behavior: auto !important;
   }
+
+  .hero-content > *,
+  .hero-side-panel,
+  .hero-badges .hero-badge {
+    opacity: 1 !important;
+    transform: none !important;
+  }
 }
 
 /* ============================================================
@@ -1406,21 +1413,6 @@ section h2.heading-reveal.is-in::after {
   isolation: isolate;
 }
 
-.service-card::before {
-  content: "";
-  position: absolute;
-  inset: 0;
-  border-radius: 18px;
-  pointer-events: none;
-  background: linear-gradient(135deg, rgba(31, 157, 99, .12), transparent 38%);
-  opacity: 0;
-  transition: opacity .35s ease;
-}
-
-.service-card:hover::before {
-  opacity: 1;
-}
-
 .service-card:hover,
 .feature-card:hover,
 .industry-card:hover,
@@ -1461,6 +1453,36 @@ section h2.heading-reveal.is-in::after {
   .coverage-card:hover .coverage-icon,
   .hero-highlights li:hover i {
     animation: none !important;
+  }
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .service-card,
+  .feature-card,
+  .industry-card,
+  .coverage-card,
+  .testimonial-card,
+  .why-choose-card,
+  .btn,
+  .nav-cta {
+    transition: transform .22s ease, box-shadow .22s ease, filter .22s ease;
+  }
+
+  .service-card:hover,
+  .feature-card:hover,
+  .industry-card:hover,
+  .coverage-card:hover,
+  .testimonial-card:hover,
+  .why-choose-card:hover {
+    transform: translateY(-9px) scale(1.01) !important;
+    box-shadow: 0 24px 46px rgba(6, 20, 17, 0.42) !important;
+  }
+
+  .btn:hover,
+  .nav-cta:hover {
+    transform: translateY(-4px) scale(1.02) !important;
+    box-shadow: 0 16px 34px rgba(6, 20, 17, 0.38) !important;
+    filter: brightness(1.04);
   }
 }
 
