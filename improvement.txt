@@ -1,0 +1,62 @@
+Highest Impact Additions
+
+Add real pricing blocks.
+Show “Starting from AED …” for top 3 services with what is included/excluded. Hidden pricing often reduces inquiries.
+
+Add a quick quote form above the fold.
+Fields: Name, Phone, Pickup, Drop, Temp range, Date/time. Keep WhatsApp button too, but form captures leads you can follow up.
+
+Add proof of trust.
+Show compliance badges and evidence:
+HACCP, temperature logs, sanitized fleet, insured vehicles, GPS tracking, years in business.
+
+Add real customer proof.
+Use real client names/logos (if allowed), before-after outcomes, delivery stats (on-time %, spoilage reduction).
+
+Add service area clarity.
+One clean section:
+“Primary: Abu Dhabi” and “Also serving: Dubai, Sharjah, Al Ain, RAK.”
+Unclear service coverage causes drop-offs.
+
+Add response promise.
+Example: “Quote within 5 minutes on WhatsApp.”
+A concrete SLA improves conversion.
+
+Things To Remove or Reduce (can hurt business)
+
+Remove any fake-looking claims.
+If a number is not verifiable (e.g., 100+ daily deliveries), either prove it or soften it.
+
+Remove repeated/duplicate service cards.
+Too many similar cards can feel spammy and lower trust.
+
+Remove inconsistent wording.
+Mixed terms like “Whatsapp/WhatsApp,” “Rental Hire,” or city focus switching (Dubai vs Abu Dhabi) weakens professionalism.
+
+Remove dead navigation items.
+If “Blog” doesn’t have real posts, either create posts or remove/rename to “Resources.”
+
+Reduce keyword stuffing in long paragraphs.
+Write naturally for humans first. Over-optimized text can hurt credibility and SEO quality signals.
+
+Conversion Improvements
+
+Add sticky “Get Quote” bar on mobile (single CTA).
+Add “Call now” business hours and after-hours policy.
+Add FAQ focused on objections:
+pricing, minimum hours, same-day availability, temperature guarantee, cancellation terms.
+Operational Improvements (business side)
+
+Add CRM tracking for every lead source (WhatsApp, call, form, referral).
+Add basic KPIs:
+lead-to-booking %, average response time, repeat customer rate.
+Add post-delivery review request flow (automated).
+Fast 7-Day Action Plan
+
+Day 1: Pricing cards + quote form.
+Day 2: Trust badges + compliance section.
+Day 3: Clean copy and remove weak/repetitive claims.
+Day 4: Add 3 real testimonial case snippets.
+Day 5: Publish 2 useful blog pages (pricing guide + service area guide).
+Day 6: Set up lead tracking sheet/CRM.
+Day 7: Review analytics and adjust CTA text.

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haroon-ai-engineer.github.io/rent-car/sitemap.xml
